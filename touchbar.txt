@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 tell application "System Events"
 tell process "Touch Bar agent" to quit
 delay 1
 tell process "ControlStrip" to quit
 end tell
+=======
+tell application "System Events"	tell process "Touch Bar agent" to quit	delay 1	tell process "ControlStrip" to quitend tell
+>>>>>>> master
